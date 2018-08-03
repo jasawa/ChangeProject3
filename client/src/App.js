@@ -6,7 +6,7 @@ import NoMatch from "./blogPages/NoMatch";
 import Nav from "./components/Nav";
 import lAAPI from "./lAAPI/"
 import Newsletter from "./newsletter/Newsletter";
-import login from "./login"
+
 
 
 
@@ -21,7 +21,7 @@ const App = () => (
         <Route component={NoMatch} />
         <Route exact path="/lAAPI/" component ={lAAPI} />
         <Route exact path="/newsletter" component= {Newsletter} />
-        <Route exact path="/home" component= {login} />
+
       </Switch>
     </div>
   </Router>
