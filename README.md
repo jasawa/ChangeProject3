@@ -1,1 +1,2 @@
-# Project3
+# SSG-HOPICS
+Non-profit agency blog website
