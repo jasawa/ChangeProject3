@@ -1,0 +1,41 @@
+.App {
+    text-align: center;
+  }
+  
+  
+  
+  .App-header {
+    background-color: rgb(0, 0, 0);
+   
+   
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .Attempt{
+    background-color: red;
+  
+  }
+  
+  .styleOne {
+  background-color: azure;
+  padding: 8px 16px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  
+  }
+  
+  .find-places{
+  background-origin: padding-box;
+  
+  }
